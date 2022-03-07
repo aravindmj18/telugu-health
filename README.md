@@ -17,33 +17,25 @@ This is a web based application developed for health related telugu based websit
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots 📸
+## Screenshots
+
+ 📸![Screenshot 2022-03-07 090754](https://user-images.githubusercontent.com/98517345/156963750-f5d694b6-a371-4b41-817f-22c8291b37da.jpg)
+
 
 
    
 
 ### About Us -
 
-![Screenshot 2022-02-24 204254](https://user-images.githubusercontent.com/41895088/155551682-dbce75bc-7607-437d-aeb4-a2a4b6c9ee4e.jpg)
 
+
+![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
 
 
 ### Privacy policy -
 
-![Screenshot 2022-02-24 204346](https://user-images.githubusercontent.com/41895088/155551883-d1d69d4e-59a5-450b-b7e3-821125210c90.jpg)
 
-
-
-
-### Busiess News -
-![Screenshot 2022-02-24 204510](https://user-images.githubusercontent.com/41895088/155552168-29ecec11-61ca-4c54-b2ac-e1659f573a29.jpg)
-
-
-
-### education news -
-
-
-![Screenshot 2022-02-24 204657](https://user-images.githubusercontent.com/41895088/155552531-c974e0dc-a029-4074-9540-16406f65de95.jpg)
+![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
 
 
 
